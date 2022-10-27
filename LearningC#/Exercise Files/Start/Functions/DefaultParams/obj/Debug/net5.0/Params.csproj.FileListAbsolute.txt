@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/DefaultParams/bin/Debug/net5.0/Params
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/DefaultParams/bin/Debug/net5.0/Params.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/DefaultParams/bin/Debug/net5.0/Params.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/DefaultParams/bin/Debug/net5.0/Params.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/DefaultParams/bin/Debug/net5.0/Params.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/DefaultParams/bin/Debug/net5.0/Params.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net5.0/refint/Params.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net5.0/ref/Params.dll

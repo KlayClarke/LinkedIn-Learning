@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net5.0/refint/Conditionals.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net5.0/ref/Conditionals.dll

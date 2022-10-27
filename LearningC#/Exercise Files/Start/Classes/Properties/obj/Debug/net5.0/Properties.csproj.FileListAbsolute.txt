@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Properties/bin/Debug/net5.0/Properties
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Properties/bin/Debug/net5.0/Properties.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Properties/bin/Debug/net5.0/Properties.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Properties/bin/Debug/net5.0/Properties.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Properties/bin/Debug/net5.0/Properties.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Properties/bin/Debug/net5.0/Properties.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Properties/obj/Debug/net5.0/Properties.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Properties/obj/Debug/net5.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Properties/obj/Debug/net5.0/Properties.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Properties/obj/Debug/net5.0/Properties.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Properties/obj/Debug/net5.0/Properties.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Properties/obj/Debug/net5.0/Properties.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Properties/obj/Debug/net5.0/refint/Properties.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Properties/obj/Debug/net5.0/Properties.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Properties/obj/Debug/net5.0/Properties.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Properties/obj/Debug/net5.0/ref/Properties.dll

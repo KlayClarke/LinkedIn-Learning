@@ -1,0 +1,17 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Comments/bin/Debug/net5.0/Comments
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Comments/bin/Debug/net5.0/Comments.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Comments/bin/Debug/net5.0/Comments.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Comments/bin/Debug/net5.0/Comments.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Comments/bin/Debug/net5.0/Comments.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Comments/bin/Debug/net5.0/Comments.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Comments/bin/Debug/net5.0/Comments.xml
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/refint/Comments.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Comments/obj/Debug/net5.0/ref/Comments.dll

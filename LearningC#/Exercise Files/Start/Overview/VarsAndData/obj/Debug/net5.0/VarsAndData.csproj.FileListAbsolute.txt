@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net5.0/refint/VarsAndData.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net5.0/ref/VarsAndData.dll

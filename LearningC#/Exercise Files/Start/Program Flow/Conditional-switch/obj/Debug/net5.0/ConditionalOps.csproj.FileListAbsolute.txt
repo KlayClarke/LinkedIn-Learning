@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-switch/bin/Debug/net5.0/ConditionalOps
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-switch/bin/Debug/net5.0/ConditionalOps.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-switch/bin/Debug/net5.0/ConditionalOps.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-switch/bin/Debug/net5.0/ConditionalOps.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-switch/bin/Debug/net5.0/ConditionalOps.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-switch/bin/Debug/net5.0/ConditionalOps.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ConditionalOps.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ConditionalOps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ConditionalOps.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ConditionalOps.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ConditionalOps.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ConditionalOps.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/refint/ConditionalOps.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ConditionalOps.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ConditionalOps.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ref/ConditionalOps.dll

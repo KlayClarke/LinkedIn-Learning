@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Modifiers/bin/Debug/net5.0/Modifiers
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Modifiers/bin/Debug/net5.0/Modifiers.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Modifiers/bin/Debug/net5.0/Modifiers.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Modifiers/bin/Debug/net5.0/Modifiers.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Modifiers/bin/Debug/net5.0/Modifiers.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Modifiers/bin/Debug/net5.0/Modifiers.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Modifiers/obj/Debug/net5.0/Modifiers.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Modifiers/obj/Debug/net5.0/Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Modifiers/obj/Debug/net5.0/Modifiers.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Modifiers/obj/Debug/net5.0/Modifiers.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Modifiers/obj/Debug/net5.0/Modifiers.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Modifiers/obj/Debug/net5.0/Modifiers.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Modifiers/obj/Debug/net5.0/refint/Modifiers.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Modifiers/obj/Debug/net5.0/Modifiers.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Modifiers/obj/Debug/net5.0/Modifiers.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Modifiers/obj/Debug/net5.0/ref/Modifiers.dll

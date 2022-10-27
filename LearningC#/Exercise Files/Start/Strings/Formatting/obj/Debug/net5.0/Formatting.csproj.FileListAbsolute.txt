@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Formatting/bin/Debug/net5.0/Formatting
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Formatting/bin/Debug/net5.0/Formatting.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Formatting/bin/Debug/net5.0/Formatting.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Formatting/bin/Debug/net5.0/Formatting.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Formatting/bin/Debug/net5.0/Formatting.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Formatting/bin/Debug/net5.0/Formatting.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Formatting/obj/Debug/net5.0/Formatting.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Formatting/obj/Debug/net5.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Formatting/obj/Debug/net5.0/Formatting.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Formatting/obj/Debug/net5.0/Formatting.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Formatting/obj/Debug/net5.0/Formatting.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Formatting/obj/Debug/net5.0/Formatting.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Formatting/obj/Debug/net5.0/refint/Formatting.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Formatting/obj/Debug/net5.0/Formatting.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Formatting/obj/Debug/net5.0/Formatting.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Formatting/obj/Debug/net5.0/ref/Formatting.dll

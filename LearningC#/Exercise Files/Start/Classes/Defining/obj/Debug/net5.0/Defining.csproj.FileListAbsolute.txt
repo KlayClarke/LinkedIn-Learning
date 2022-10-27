@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Defining/bin/Debug/net5.0/Defining
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Defining/bin/Debug/net5.0/Defining.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Defining/bin/Debug/net5.0/Defining.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Defining/bin/Debug/net5.0/Defining.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Defining/bin/Debug/net5.0/Defining.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Defining/bin/Debug/net5.0/Defining.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Defining/obj/Debug/net5.0/Defining.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Defining/obj/Debug/net5.0/Defining.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Defining/obj/Debug/net5.0/Defining.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Defining/obj/Debug/net5.0/Defining.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Defining/obj/Debug/net5.0/Defining.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Defining/obj/Debug/net5.0/Defining.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Defining/obj/Debug/net5.0/refint/Defining.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Defining/obj/Debug/net5.0/Defining.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Defining/obj/Debug/net5.0/Defining.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Defining/obj/Debug/net5.0/ref/Defining.dll

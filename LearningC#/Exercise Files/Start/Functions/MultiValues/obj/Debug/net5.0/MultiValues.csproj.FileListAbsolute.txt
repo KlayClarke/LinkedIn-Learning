@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/MultiValues/bin/Debug/net5.0/MultiValues
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/MultiValues/bin/Debug/net5.0/MultiValues.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/MultiValues/bin/Debug/net5.0/MultiValues.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/MultiValues/bin/Debug/net5.0/MultiValues.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/MultiValues/bin/Debug/net5.0/MultiValues.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/MultiValues/bin/Debug/net5.0/MultiValues.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/MultiValues/obj/Debug/net5.0/MultiValues.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/MultiValues/obj/Debug/net5.0/MultiValues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/MultiValues/obj/Debug/net5.0/MultiValues.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/MultiValues/obj/Debug/net5.0/MultiValues.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/MultiValues/obj/Debug/net5.0/MultiValues.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/MultiValues/obj/Debug/net5.0/MultiValues.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/MultiValues/obj/Debug/net5.0/refint/MultiValues.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/MultiValues/obj/Debug/net5.0/MultiValues.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/MultiValues/obj/Debug/net5.0/MultiValues.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Functions/MultiValues/obj/Debug/net5.0/ref/MultiValues.dll

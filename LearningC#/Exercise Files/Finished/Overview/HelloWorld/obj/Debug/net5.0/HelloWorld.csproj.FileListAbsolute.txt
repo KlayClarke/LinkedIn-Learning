@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/refint/HelloWorld.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll

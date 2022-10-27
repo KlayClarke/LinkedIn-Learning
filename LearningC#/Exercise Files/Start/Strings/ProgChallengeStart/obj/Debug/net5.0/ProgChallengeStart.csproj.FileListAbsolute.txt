@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/refint/ProgChallengeStart.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ref/ProgChallengeStart.dll

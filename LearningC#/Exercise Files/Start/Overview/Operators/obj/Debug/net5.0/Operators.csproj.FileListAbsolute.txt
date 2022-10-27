@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Operators/bin/Debug/net5.0/Operators
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Operators/bin/Debug/net5.0/Operators.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Operators/bin/Debug/net5.0/Operators.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Operators/bin/Debug/net5.0/Operators.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Operators/bin/Debug/net5.0/Operators.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Operators/bin/Debug/net5.0/Operators.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Operators/obj/Debug/net5.0/Operators.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Operators/obj/Debug/net5.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Operators/obj/Debug/net5.0/Operators.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Operators/obj/Debug/net5.0/Operators.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Operators/obj/Debug/net5.0/Operators.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Operators/obj/Debug/net5.0/Operators.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Operators/obj/Debug/net5.0/refint/Operators.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Operators/obj/Debug/net5.0/Operators.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Operators/obj/Debug/net5.0/Operators.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Overview/Operators/obj/Debug/net5.0/ref/Operators.dll

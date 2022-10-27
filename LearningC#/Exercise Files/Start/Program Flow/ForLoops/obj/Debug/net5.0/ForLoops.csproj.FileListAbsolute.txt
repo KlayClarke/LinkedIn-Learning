@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/refint/ForLoops.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ref/ForLoops.dll

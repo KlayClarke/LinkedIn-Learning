@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/refint/Exceptions.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/ref/Exceptions.dll

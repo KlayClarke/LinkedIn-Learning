@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/refint/WhileLoops.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/ref/WhileLoops.dll

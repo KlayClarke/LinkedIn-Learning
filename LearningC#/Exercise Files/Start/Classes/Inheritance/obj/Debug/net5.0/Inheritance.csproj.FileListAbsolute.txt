@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Inheritance/bin/Debug/net5.0/Inheritance
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Inheritance/bin/Debug/net5.0/Inheritance.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Inheritance/bin/Debug/net5.0/Inheritance.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Inheritance/bin/Debug/net5.0/Inheritance.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Inheritance/obj/Debug/net5.0/Inheritance.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Inheritance/obj/Debug/net5.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Inheritance/obj/Debug/net5.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Inheritance/obj/Debug/net5.0/Inheritance.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Inheritance/obj/Debug/net5.0/refint/Inheritance.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Inheritance/obj/Debug/net5.0/Inheritance.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Inheritance/obj/Debug/net5.0/Inheritance.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Classes/Inheritance/obj/Debug/net5.0/ref/Inheritance.dll

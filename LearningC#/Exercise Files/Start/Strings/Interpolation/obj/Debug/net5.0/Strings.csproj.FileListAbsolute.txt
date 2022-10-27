@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Interpolation/bin/Debug/net5.0/Strings
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Interpolation/bin/Debug/net5.0/Strings.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Interpolation/bin/Debug/net5.0/Strings.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Interpolation/bin/Debug/net5.0/Strings.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Interpolation/bin/Debug/net5.0/Strings.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Interpolation/bin/Debug/net5.0/Strings.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Interpolation/obj/Debug/net5.0/refint/Strings.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Interpolation/obj/Debug/net5.0/ref/Strings.dll

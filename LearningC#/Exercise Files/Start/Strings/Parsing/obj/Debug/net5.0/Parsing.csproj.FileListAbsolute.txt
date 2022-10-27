@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Parsing/bin/Debug/net5.0/Parsing
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Parsing/obj/Debug/net5.0/refint/Parsing.dll
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/LearningC#/Exercise Files/Start/Strings/Parsing/obj/Debug/net5.0/ref/Parsing.dll
