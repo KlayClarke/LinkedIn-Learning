@@ -8,24 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/klayclarke/.nuget/packages/": {}
+    "C:\\Users\\klaya\\.nuget\\packages\\": {},
+    "D:\\ProgramData\\Microsoft\\VisualStudio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/OOPExamples.csproj",
+      "projectUniqueName": "C:\\Users\\klaya\\code\\LinkedIn-Learning\\C# OOP Tips and Tricks\\OOPExamples\\OOPExamples.csproj",
       "projectName": "OOPExamples",
-      "projectPath": "/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/OOPExamples.csproj",
-      "packagesPath": "/Users/klayclarke/.nuget/packages/",
-      "outputPath": "/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/obj/",
+      "projectPath": "C:\\Users\\klaya\\code\\LinkedIn-Learning\\C# OOP Tips and Tricks\\OOPExamples\\OOPExamples.csproj",
+      "packagesPath": "C:\\Users\\klaya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\klaya\\code\\LinkedIn-Learning\\C# OOP Tips and Tricks\\OOPExamples\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\ProgramData\\Microsoft\\VisualStudio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/klayclarke/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\klaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
