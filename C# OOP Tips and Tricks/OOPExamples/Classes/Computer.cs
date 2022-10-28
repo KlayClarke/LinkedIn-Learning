@@ -2,12 +2,12 @@ using System;
 
 namespace OOPExamples
 {
-  class Computer
+  abstract class Computer
   {
     protected string _name = "Unknown";
     
     public bool isOn {get; private set;}
-    public string name {get => _name; private set => _name = value ;}
+    public virtual string name {get => _name; private set => _name = value ;}
     
     public Computer(string name)
     {
@@ -24,7 +24,7 @@ namespace OOPExamples
       isOn = false;
     }
     
-    public void TogglePower()
+    public virtual void TogglePower()
     {
       if (isOn)
       {
