@@ -7,7 +7,7 @@ namespace OOPExamples
         static void Main(string[] args)
         {
             var comp = new Desktop("Generic Computer", Desktop.CaseType.Tower); // able to access classes in same namespace -> in this case, OOPExamples
-            // var comp2 = new Laptop("Generic Laptop", 1024, 768); // will throw error because caseType and ToggleSleep are exclusive to Desktop -> technical debt
+            // var comp = new Laptop("Generic Laptop", 1024, 768); // will throw error if caseType is uncommented -> caseType is exclusive to Desktop
             
             Console.WriteLine(comp.GetType()); // "OOPExamples.Computer" -> namespace.class
             
@@ -20,12 +20,16 @@ namespace OOPExamples
             comp.TogglePower();
             Console.WriteLine("Computer is on - " + comp.isOn);
             
-            comp.ToggleSleep();
-            Console.WriteLine("Computer is sleeping - " + comp.isOn);
+            var sleepingComp = comp as ISleep;
             
-            comp.TogglePower();
-            Console.WriteLine("Computer is on - " + comp.isOn);
-            
+            if (sleepingComp != null)
+            {
+                sleepingComp.ToggleSleep();
+                Console.WriteLine("Computer is sleeping - " + sleepingComp.isSleeping);
+                
+                comp.TogglePower();
+                Console.WriteLine("Computer is on - " + comp.isOn);
+            }          
             
             Console.Read();
         }
