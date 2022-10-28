@@ -1,0 +1,15 @@
+/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/bin/Debug/net6.0/OOPExamples
+/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/bin/Debug/net6.0/OOPExamples.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/bin/Debug/net6.0/OOPExamples.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/bin/Debug/net6.0/OOPExamples.dll
+/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/bin/Debug/net6.0/OOPExamples.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/obj/Debug/net6.0/OOPExamples.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/obj/Debug/net6.0/OOPExamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/obj/Debug/net6.0/OOPExamples.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/obj/Debug/net6.0/OOPExamples.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/obj/Debug/net6.0/OOPExamples.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/obj/Debug/net6.0/OOPExamples.dll
+/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/obj/Debug/net6.0/refint/OOPExamples.dll
+/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/obj/Debug/net6.0/OOPExamples.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/obj/Debug/net6.0/OOPExamples.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# OOP Tips and Tricks/OOPExamples/obj/Debug/net6.0/ref/OOPExamples.dll
