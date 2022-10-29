@@ -1,38 +1,46 @@
 namespace OOPExamples
 {
-  class Desktop : Computer
-  {
-    public enum CaseType
+    class Desktop : Computer, ISleep
     {
-      Tower, 
-      MiniTower
+        private ISleep sleepController;
+        public enum CaseType
+        {
+            Tower, 
+            MiniTower
+        }
+
+        public bool isSleeping 
+        { 
+            get {
+                return sleepController.isSleeping;
+            }
+        }
+        
+        public CaseType caseType {get; private set;}
+
+        public override string name { get => base.name + " " + caseType; } // use base to get parent value after override
+        public Desktop(string name, CaseType caseType) : base(name)
+        {
+            this.caseType = caseType;
+            sleepController = new SleepController();
+        }
+
+        public void ToggleSleep()
+        {
+            if (!isOn)
+            {
+                return;
+            }
+            sleepController.ToggleSleep();
+        } 
+
+        public override void TogglePower()
+        {
+            if (isSleeping)
+            {
+                return;
+            }
+            base.TogglePower();
+        }
     }
-    
-    public bool isSleeping { get; private set; }
-    public CaseType caseType {get; private set;}
-    
-    public override string name { get => base.name + " " + caseType; } // use base to get parent value after override
-    public Desktop(string name, CaseType caseType) : base(name)
-    {
-    this.caseType = caseType;
-    }
-    
-    public void ToggleSleep()
-    {
-      if (!isOn)
-      {
-        return;
-      }
-      isSleeping = !isSleeping;
-    } 
-    
-    public override void TogglePower()
-    {
-      if (isSleeping)
-      {
-        return;
-      }
-      base.TogglePower();
-    }
-  }
 }

@@ -2,36 +2,23 @@ using System;
 
 namespace OOPExamples
 {
-  abstract class Computer
-  {
-    protected string _name = "Unknown";
-    
-    public bool isOn {get; private set;}
-    public virtual string name {get => _name; private set => _name = value ;}
-    
-    public Computer(string name)
+    abstract class Computer : IPowerOn
     {
-      this.name = name;
+        protected IPowerOn powerController;
+        protected string _name = "Unknown";
+
+        public bool isOn {get { return powerController.isOn; } }
+        public virtual string name {get => _name; private set => _name = value ;}
+
+        public Computer(string name)
+        {
+            this.name = name;
+            powerController = new PowerController();
+        }
+
+        public virtual void TogglePower()
+        {
+            powerController.TogglePower();
+        }
     }
-    
-    protected void TurnOn()
-    {
-      isOn = true;
-    }
-    
-    protected void TurnOff()
-    {
-      isOn = false;
-    }
-    
-    public virtual void TogglePower()
-    {
-      if (isOn)
-      {
-        TurnOff();
-        return;
-      }
-      TurnOn();
-    }
-  }
 }
