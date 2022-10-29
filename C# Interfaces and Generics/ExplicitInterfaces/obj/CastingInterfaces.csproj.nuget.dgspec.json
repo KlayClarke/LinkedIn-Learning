@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "/Users/klayclarke/Desktop/LinkedInLearning/C# Interfaces and Generics/MultipleInterfaces/CastingInterfaces.csproj": {}
+    "/Users/klayclarke/Desktop/LinkedInLearning/C# Interfaces and Generics/ExplicitInterfaces/CastingInterfaces.csproj": {}
   },
   "projects": {
-    "/Users/klayclarke/Desktop/LinkedInLearning/C# Interfaces and Generics/MultipleInterfaces/CastingInterfaces.csproj": {
+    "/Users/klayclarke/Desktop/LinkedInLearning/C# Interfaces and Generics/ExplicitInterfaces/CastingInterfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/klayclarke/Desktop/LinkedInLearning/C# Interfaces and Generics/MultipleInterfaces/CastingInterfaces.csproj",
+        "projectUniqueName": "/Users/klayclarke/Desktop/LinkedInLearning/C# Interfaces and Generics/ExplicitInterfaces/CastingInterfaces.csproj",
         "projectName": "CastingInterfaces",
-        "projectPath": "/Users/klayclarke/Desktop/LinkedInLearning/C# Interfaces and Generics/MultipleInterfaces/CastingInterfaces.csproj",
+        "projectPath": "/Users/klayclarke/Desktop/LinkedInLearning/C# Interfaces and Generics/ExplicitInterfaces/CastingInterfaces.csproj",
         "packagesPath": "/Users/klayclarke/.nuget/packages/",
-        "outputPath": "/Users/klayclarke/Desktop/LinkedInLearning/C# Interfaces and Generics/MultipleInterfaces/obj/",
+        "outputPath": "/Users/klayclarke/Desktop/LinkedInLearning/C# Interfaces and Generics/ExplicitInterfaces/obj/",
         "projectStyle": "PackageReference",
-        "configFilePaths": ["/Users/klayclarke/.nuget/NuGet/NuGet.Config"],
-        "originalTargetFrameworks": ["net6.0"],
+        "configFilePaths": [
+          "/Users/klayclarke/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -25,7 +29,9 @@
           }
         },
         "warningProperties": {
-          "warnAsError": ["NU1605"]
+          "warnAsError": [
+            "NU1605"
+          ]
         }
       },
       "frameworks": {
