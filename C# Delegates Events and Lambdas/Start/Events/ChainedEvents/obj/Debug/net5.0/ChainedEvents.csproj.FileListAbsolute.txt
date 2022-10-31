@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Events/ChainedEvents/obj/Debug/net5.0/ChainedEvents.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Events/ChainedEvents/obj/Debug/net5.0/ChainedEvents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Events/ChainedEvents/obj/Debug/net5.0/ChainedEvents.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Events/ChainedEvents/obj/Debug/net5.0/ChainedEvents.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Events/ChainedEvents/obj/Debug/net5.0/ChainedEvents.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Events/ChainedEvents/bin/Debug/net5.0/ChainedEvents
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Events/ChainedEvents/bin/Debug/net5.0/ChainedEvents.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Events/ChainedEvents/bin/Debug/net5.0/ChainedEvents.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Events/ChainedEvents/bin/Debug/net5.0/ChainedEvents.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Events/ChainedEvents/bin/Debug/net5.0/ChainedEvents.dll
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Events/ChainedEvents/bin/Debug/net5.0/ChainedEvents.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Events/ChainedEvents/obj/Debug/net5.0/ChainedEvents.dll
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Events/ChainedEvents/obj/Debug/net5.0/refint/ChainedEvents.dll
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Events/ChainedEvents/obj/Debug/net5.0/ChainedEvents.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Events/ChainedEvents/obj/Debug/net5.0/ChainedEvents.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Events/ChainedEvents/obj/Debug/net5.0/ref/ChainedEvents.dll
