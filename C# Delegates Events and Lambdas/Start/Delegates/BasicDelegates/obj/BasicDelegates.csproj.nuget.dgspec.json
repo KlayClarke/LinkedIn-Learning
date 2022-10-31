@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/BasicDelegates.csproj": {}
+  },
+  "projects": {
+    "/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/BasicDelegates.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/BasicDelegates.csproj",
+        "projectName": "BasicDelegates",
+        "projectPath": "/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/BasicDelegates.csproj",
+        "packagesPath": "/Users/klayclarke/.nuget/packages/",
+        "outputPath": "/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/klayclarke/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

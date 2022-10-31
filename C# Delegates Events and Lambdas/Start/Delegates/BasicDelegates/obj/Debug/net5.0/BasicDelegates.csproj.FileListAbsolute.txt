@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/bin/Debug/net5.0/BasicDelegates
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/bin/Debug/net5.0/BasicDelegates.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/bin/Debug/net5.0/BasicDelegates.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/bin/Debug/net5.0/BasicDelegates.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/bin/Debug/net5.0/BasicDelegates.dll
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/bin/Debug/net5.0/BasicDelegates.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/obj/Debug/net5.0/BasicDelegates.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/obj/Debug/net5.0/BasicDelegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/obj/Debug/net5.0/BasicDelegates.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/obj/Debug/net5.0/BasicDelegates.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/obj/Debug/net5.0/BasicDelegates.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/obj/Debug/net5.0/BasicDelegates.dll
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/obj/Debug/net5.0/refint/BasicDelegates.dll
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/obj/Debug/net5.0/BasicDelegates.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/obj/Debug/net5.0/BasicDelegates.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/BasicDelegates/obj/Debug/net5.0/ref/BasicDelegates.dll
