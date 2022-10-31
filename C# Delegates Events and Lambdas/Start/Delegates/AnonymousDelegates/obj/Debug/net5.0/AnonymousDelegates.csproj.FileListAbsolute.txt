@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/AnonymousDelegates/bin/Debug/net5.0/AnonymousDelegates
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/AnonymousDelegates/bin/Debug/net5.0/AnonymousDelegates.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/AnonymousDelegates/bin/Debug/net5.0/AnonymousDelegates.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/AnonymousDelegates/bin/Debug/net5.0/AnonymousDelegates.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/AnonymousDelegates/bin/Debug/net5.0/AnonymousDelegates.dll
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/AnonymousDelegates/bin/Debug/net5.0/AnonymousDelegates.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/AnonymousDelegates.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/AnonymousDelegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/AnonymousDelegates.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/AnonymousDelegates.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/AnonymousDelegates.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/AnonymousDelegates.dll
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/refint/AnonymousDelegates.dll
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/AnonymousDelegates.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/AnonymousDelegates.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/AnonymousDelegates/obj/Debug/net5.0/ref/AnonymousDelegates.dll
