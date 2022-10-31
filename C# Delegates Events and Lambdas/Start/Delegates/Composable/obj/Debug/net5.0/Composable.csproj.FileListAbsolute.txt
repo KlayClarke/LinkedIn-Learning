@@ -1,0 +1,16 @@
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/Composable/bin/Debug/net5.0/Composable
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/Composable/bin/Debug/net5.0/Composable.deps.json
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/Composable/bin/Debug/net5.0/Composable.runtimeconfig.json
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/Composable/bin/Debug/net5.0/Composable.runtimeconfig.dev.json
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/Composable/bin/Debug/net5.0/Composable.dll
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/Composable/bin/Debug/net5.0/Composable.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/Composable/obj/Debug/net5.0/Composable.csproj.AssemblyReference.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/Composable/obj/Debug/net5.0/Composable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/Composable/obj/Debug/net5.0/Composable.AssemblyInfoInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/Composable/obj/Debug/net5.0/Composable.AssemblyInfo.cs
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/Composable/obj/Debug/net5.0/Composable.csproj.CoreCompileInputs.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/Composable/obj/Debug/net5.0/Composable.dll
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/Composable/obj/Debug/net5.0/refint/Composable.dll
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/Composable/obj/Debug/net5.0/Composable.pdb
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/Composable/obj/Debug/net5.0/Composable.genruntimeconfig.cache
+/Users/klayclarke/Desktop/LinkedInLearning/C# Delegates Events and Lambdas/Start/Delegates/Composable/obj/Debug/net5.0/ref/Composable.dll
