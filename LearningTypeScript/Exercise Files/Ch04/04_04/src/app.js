@@ -1,15 +1,17 @@
-const basePath = "src"
+const basePath = "src";
 
-const loadDependencies = () => Promise.all([
-  $.get(`${basePath}/testData.js`),
-  $.get(`${basePath}/storage.js`),
-  $.get(`${basePath}/inventoryStore.js`)
-]);
+const loadDependencies = () =>
+  Promise.all([
+    $.get(`${basePath}/testData.js`),
+    $.get(`${basePath}/storage.js`),
+    $.get(`${basePath}/inventoryStore.js`),
+  ]);
 
-const loadPages = () => Promise.all([
-  $.get(`${basePath}/pages/addItem.js`),
-  $.get(`${basePath}/pages/inventory.js`)
-]);
+const loadPages = () =>
+  Promise.all([
+    $.get(`${basePath}/pages/addItem.js`),
+    $.get(`${basePath}/pages/inventory.js`),
+  ]);
 
 Vue.component("loading", {
   template: `
@@ -21,50 +23,49 @@ Vue.component("loading", {
         </div>
       </div>
     </div>
-  `
+  `,
 });
 
 Vue.component("app", () => ({
   delay: 200,
   loading: { template: `<loading />` },
-  component:
-    loadDependencies()
-      .then(() => inventoryStore.isInitialized)
-      .then(loadPages)
-      .then(() => ({
-        data: () => ({
-          inventoryStore: null,
-          currentRoute: null,
-          CurrentPage: null,
-          routes: {
-            "add-item": addItemPage,
-            "inventory": inventoryPage
-          }
-        }),
-        methods: {
-          syncRoute() {
-            this.currentRoute = window.location.hash.replace(/^#\//, "");
-          }
+  component: loadDependencies()
+    .then(() => inventoryStore.isInitialized)
+    .then(loadPages)
+    .then(() => ({
+      data: () => ({
+        inventoryStore: null,
+        currentRoute: null,
+        CurrentPage: null,
+        routes: {
+          "add-item": addItemPage,
+          inventory: inventoryPage,
         },
-        watch: {
-          currentRoute() {
-            const page = this.routes[this.currentRoute];
-            this.CurrentPage = page || inventoryPage;
-          }
+      }),
+      methods: {
+        syncRoute() {
+          this.currentRoute = window.location.hash.replace(/^#\//, "");
         },
-        created() {
-          this.inventoryStore = inventoryStore;
-          window.addEventListener("hashchange", this.syncRoute);
-          this.syncRoute();
+      },
+      watch: {
+        currentRoute() {
+          const page = this.routes[this.currentRoute];
+          this.CurrentPage = page || inventoryPage;
         },
-        template: `
+      },
+      created() {
+        this.inventoryStore = inventoryStore;
+        window.addEventListener("hashchange", this.syncRoute);
+        this.syncRoute();
+      },
+      template: `
           <div class="container-fluid">
               <div class="header clearfix">
                   <h3 class="text-muted">Inventory Management System</h3>
               </div>
               <component :is="CurrentPage"></component>
-          </div>`
-      }))
+          </div>`,
+    })),
 }));
 
 new Vue({ el: "#app", template: `<app/>` });

@@ -1,6 +1,9 @@
 {
-    "compilerOptions": {
-        "target": "es5",
-        "outDir": "dist"
-    }
+  "compilerOptions": {
+    "target": "es5",
+    "outDir": "dist",
+    "allowJs": true,
+    "checkJs": true,
+    "strict": true
+  }
 }
