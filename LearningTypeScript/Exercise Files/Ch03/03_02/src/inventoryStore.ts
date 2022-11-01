@@ -1,4 +1,13 @@
+interface Category {
+  name: string;
+  displayName: string;
+  subCategories: { name: string; displayName: string }[];
+}
+
 class InventoryStore {
+  _categories: Category[] = [];
+  _items: InventoryItem[] = [];
+  _isInitialized: Promise<boolean>;
   /** the inventory categories */
   get categories() {
     return this._categories;
@@ -14,14 +23,7 @@ class InventoryStore {
     return this._isInitialized;
   }
 
-  constructor() {
-    // define and initialize properties (which happen to be "private")
-    this._categories = [];
-    this._items = [];
-
-    // load initial set of data
-    this._isInitialized = this._load();
-  }
+  constructor() {}
 
   /**
    * Locates a specific item from inventory
@@ -29,8 +31,8 @@ class InventoryStore {
    * @param {string} trackingNumber the item's tracking number
    * @returns the inventory item with the given tracking number, or null
    */
-  getItem(trackingNumber) {
-    return this._items.find(x => x.trackingNumber === trackingNumber);
+  getItem(trackingNumber: string): InventoryItem {
+    return this._items.find((x) => x.trackingNumber === trackingNumber);
   }
 
   /**
@@ -39,18 +41,16 @@ class InventoryStore {
    * @param {InventoryItem} item the item to add to inventory
    * @returns {Promise<InventoryItem>} promise containing the updated item after it's been saved
    */
-  addItem(item) {
+  addItem(item: InventoryItem): Promise<InventoryItem> {
     const errors = this.validateItem(item);
 
     if (errors.length) {
       return Promise.reject(errors);
     }
 
-    const trackingNumber = Math.random()
-      .toString(36)
-      .substr(2, 9);
+    const trackingNumber = Math.random().toString(36).substr(2, 9);
 
-    item.trackingNumber = trackingNumber;
+    // item.trackingNumber = trackingNumber;
 
     this._items.push(item);
 
@@ -154,7 +154,7 @@ class InventoryStore {
   _load() {
     return Promise.all([
       getFromStorage("Categories"),
-      getFromStorage("Inventory")
+      getFromStorage("Inventory"),
     ]).then(([categories, items]) => {
       this._categories = categories;
       this._items = items;
@@ -173,10 +173,10 @@ class InventoryStore {
   }
 
   //#endregion
-}
 
-// Create a "static" singleton instance for the entire application to use
-InventoryStore.instance = new InventoryStore();
+  // Create a "static" singleton instance for the entire application to use
+  static instance = new InventoryStore();
+}
 
 // Expose the singleton in its own variable
 const inventoryStore = InventoryStore.instance;

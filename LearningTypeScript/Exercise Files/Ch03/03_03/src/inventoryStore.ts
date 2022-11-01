@@ -1,14 +1,13 @@
 interface Category {
-  name: string,
-  displayName: string,
-  subCategories: { name: string, displayName: string }[]
+  name: string;
+  displayName: string;
+  subCategories: { name: string; displayName: string }[];
 }
 
 class InventoryStore {
-  _categories: Category[] = [];
-  _items: InventoryItem[] = [];
-  _isInitialized: Promise<boolean>;
-
+  protected _categories: Category[] = [];
+  protected _items: InventoryItem[] = [];
+  protected _isInitialized: Promise<boolean>;
 
   /** the inventory categories */
   get categories() {
@@ -37,7 +36,7 @@ class InventoryStore {
    * @returns the inventory item with the given tracking number, or null
    */
   getItem(trackingNumber: string): InventoryItem {
-    return this._items.find(x => x.trackingNumber === trackingNumber);
+    return this._items.find((x) => x.trackingNumber === trackingNumber);
   }
 
   /**
@@ -53,9 +52,7 @@ class InventoryStore {
       return Promise.reject(errors);
     }
 
-    const trackingNumber = Math.random()
-      .toString(36)
-      .substr(2, 9);
+    const trackingNumber = Math.random().toString(36).substr(2, 9);
 
     item.trackingNumber = trackingNumber;
 
@@ -158,10 +155,10 @@ class InventoryStore {
    *
    * @private  <-- just information, doesn't actually do anything at runtime
    */
-  _load() {
+  protected _load() {
     return Promise.all([
       getFromStorage("Categories"),
-      getFromStorage("Inventory")
+      getFromStorage("Inventory"),
     ]).then(([categories, items]) => {
       this._categories = categories;
       this._items = items;
@@ -175,7 +172,7 @@ class InventoryStore {
    *
    * @private  <-- just information, doesn't actually do anything at runtime
    */
-  _save() {
+  protected _save() {
     return saveToStorage("Inventory", this._items);
   }
 
@@ -184,7 +181,6 @@ class InventoryStore {
   // Create a "static" singleton instance for the entire application to use
   static instance = new InventoryStore();
 }
-
 
 // Expose the singleton in its own variable
 const inventoryStore = InventoryStore.instance;

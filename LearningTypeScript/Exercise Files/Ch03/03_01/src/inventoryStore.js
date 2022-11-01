@@ -30,7 +30,7 @@ class InventoryStore {
    * @returns the inventory item with the given tracking number, or null
    */
   getItem(trackingNumber) {
-    return this._items.find(x => x.trackingNumber === trackingNumber);
+    return this._items.find((x) => x.trackingNumber === trackingNumber);
   }
 
   /**
@@ -46,9 +46,7 @@ class InventoryStore {
       return Promise.reject(errors);
     }
 
-    const trackingNumber = Math.random()
-      .toString(36)
-      .substr(2, 9);
+    const trackingNumber = Math.random().toString(36).substr(2, 9);
 
     item.trackingNumber = trackingNumber;
 
@@ -154,7 +152,7 @@ class InventoryStore {
   _load() {
     return Promise.all([
       getFromStorage("Categories"),
-      getFromStorage("Inventory")
+      getFromStorage("Inventory"),
     ]).then(([categories, items]) => {
       this._categories = categories;
       this._items = items;
